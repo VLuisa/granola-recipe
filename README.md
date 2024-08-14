@@ -8,7 +8,7 @@ Simple boilerplate for using Svelte 5 and Vite.
 // clone the git repository to your local system
 
 // go into the new directory
-cd svelte-5-d3-starter
+cd svelte-5-starter
 
 // install the dependencies
 npm i
