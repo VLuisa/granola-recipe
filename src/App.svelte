@@ -120,7 +120,7 @@
   input[type="range"]::-webkit-slider-thumb {
     background-color: blue;
     appearance: none;
-    background-color: GoldenRod;
+    background-color: rgb(244, 206, 135);
     border-radius: 100px;
     height: 1.2rem;
     width: 1.2rem;

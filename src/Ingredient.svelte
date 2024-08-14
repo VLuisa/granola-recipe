@@ -1,4 +1,5 @@
 <script>
+  import { fade } from "svelte/transition";
   export let label;
   export let amount;
   export let unit;
@@ -10,7 +11,8 @@
 </script>
 
 <span class="item"
-  ><span class="amount">{@html fractionAmount} {unit}</span> of
+  >{#key $portion}
+    <span class="amount" in:fade>{@html fractionAmount} {unit}</span>{/key} of
   <span class="ingredient">{label}</span></span
 >
 
