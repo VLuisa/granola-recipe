@@ -1,6 +1,6 @@
 # Svelte 5 in Vite Starter
 
-Simple boilerplate for using Svelte 5 and Vite.
+Simple boilerplate for using Svelte 5 and Vite. Based on [svelte-5-d3-starter](https://github.com/higsch/svelte-5-d3-starter)
 
 ## Run
 
