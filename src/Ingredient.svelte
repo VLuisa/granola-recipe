@@ -8,11 +8,13 @@
 
   $: portionedAmount = amount * $portion;
   $: fractionAmount = fractionize(portionedAmount);
+  $: unitLabel = portionedAmount < 1 ? unit : `${unit}s`;
 </script>
 
 <span class="item"
   >{#key $portion}
-    <span class="amount" in:fade>{@html fractionAmount} {unit}</span>{/key} of
+    <span class="amount" in:fade>{@html fractionAmount} {unitLabel}</span>{/key}
+  of
   <span class="ingredient">{label}</span></span
 >
 

@@ -8,67 +8,67 @@
     oats: {
       label: "Oats",
       amount: 3.5,
-      unit: "cup(s)",
+      unit: "cup",
     },
     wheat_germ: {
       label: "Wheat germ",
       amount: 0.5,
-      unit: "cup(s)",
+      unit: "cup",
     },
     maple_syrup: {
       label: "Maple syrup",
       amount: 0.5,
-      unit: "cup(s)",
+      unit: "cup",
     },
     almonds: {
       label: "Almonds, sliced",
       amount: 0.5,
-      unit: "cup(s)",
+      unit: "cup",
     },
     pecan_walnuts: {
       label: "Pecans or walnuts, roughly chopped",
       amount: 0.5,
-      unit: "cup(s)",
+      unit: "cup",
     },
     sunflower_seeds: {
       label: "Sunflower seeds",
       amount: 0.5,
-      unit: "cup(s)",
+      unit: "cup",
     },
     oil: {
       label: "Vegetable oil",
       amount: 0.25,
-      unit: "cup(s)",
+      unit: "cup",
     },
     salt: {
       label: "Salt",
       amount: 0.25,
-      unit: "teaspoon(s)",
+      unit: "teaspoon",
     },
     vanilla: {
       label: "Vanilla extract",
       amount: 0.5,
-      unit: "tablespoon(s)",
+      unit: "tablespoon",
     },
     raisins: {
       label: "Raisins",
       amount: 0.5,
-      unit: "cup(s)",
+      unit: "cup",
     },
     golden_raisins: {
       label: "Golden raisins",
       amount: 0.5,
-      unit: "cup(s)",
+      unit: "cup",
     },
     cranberries: {
       label: "Cranberries",
       amount: 0.5,
-      unit: "cup(s)",
+      unit: "cup",
     },
     apricots: {
       label: "Apricots, diced",
       amount: 0.5,
-      unit: "cup(s)",
+      unit: "cup",
     },
   };
 </script>
